@@ -71,7 +71,7 @@
     "stream": "0.0.2",
     "strip-bom": "5.0.0",
     "strip-bom-buf": "2.0.0",
-    "tmp": "0.0.33",
+    "tmp": "0.2.1",
     "vscode-debugprotocol": "1.33.0",
     "vscode-extension-telemetry": "0.1.6",
     "vscode-languageserver-protocol": "3.16.0",
